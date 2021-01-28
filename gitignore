@@ -1,0 +1,6 @@
+out/*.pdf
+out/*.docx
+figs/*
+!figs/*.pdf
+log/*
+.Rhistory
